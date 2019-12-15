@@ -1,0 +1,23 @@
+{
+  "name": "mf-scraping",
+  "version": "0.0.1",
+  "description": "MFの資産ページをスクレイピングするやつ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterashima78/mf-scraping.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterashima78/mf-scraping/issues"
+  },
+  "homepage": "https://github.com/sterashima78/mf-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
